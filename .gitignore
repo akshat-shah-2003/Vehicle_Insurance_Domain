@@ -1,5 +1,6 @@
 mongodb_credentials.txt
 workenv/
+artifact/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
